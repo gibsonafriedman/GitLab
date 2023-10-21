@@ -59,3 +59,6 @@ git rebase top_ten
 git rebase top_N
 ```
 This would overwrite the code in the test branch to include changes from top_ten and top_N but would ultimately only included changes from both meaning the code would be ruined since both branches include changes to the code.
+
+Extra credit?
+I'm not sure if this will get me extra credit but I managed to mess up my branches and used git rm to fix some of my issue.
